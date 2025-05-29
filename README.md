@@ -45,6 +45,7 @@ merce é a “Black Friday”, período sazonal em que muitos dos clientes se pl
 <div align="center">   
 
 ![image](./AnaliseRegressao/trend.png)
+![image](./AnaliseRegressao/trend1.png)
 
 </div>
 
