@@ -2,8 +2,8 @@
 
 <div align="center">    
  
-## Case Analista de Dados: BlackFriday
-#### Desafio de Avaliação para vaga de Analista de Dados junto a empresa Calina.
+## Estudo de Caso: Desafio de Avaliação para a Posição de Analista de Dados
+#### Empresa: Calina | Tema: Previsão de Receita na Black Friday
 
 
 </div>
