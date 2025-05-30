@@ -21,7 +21,7 @@ Para responder à solicitação do cliente, analise o banco de dados, crie um mo
 
 ## Conteúdo do projeto
 
- - [`Analise.pdf`](./AnaliseRegressao/Analise.pdf) - Apresentação completa da anlise realizada, com todas as informações:
+ - [`Analise.pdf`](./AnaliseRegressao/Analise.pdf) - Apresentação completa da análise realizada, com todas as informações:
     - Desafio e Objetivo do Case
     - Tratamento e limpeza dos dados
     - Análise exploratória e descritiva dos dados
