@@ -12,17 +12,11 @@
 
 ## Objetivo do Case
  <div text-align="justify" align="justify">    
-Em uma agência de Marketing Digital uma das épocas mais importante para o ramo de ecom
-merce é a “Black Friday”, período sazonal em que muitos dos clientes se planejam com promoções
- e ações através das mídias pagas para chamar a atenção dos usuários. Pensando nessa data muito
- especial, um cliente da Calina solicitou uma análise para prevermos qual será a receita da Black
- Friday de 2020.
- O banco de dados enviado contém dados de 3 mídias em que o cliente investe (Mídia A, B e C)
- e o total da receita gerada no site por semana, desde a primeira semana de 2018 até a última
- semana de outubro de 2020.
- Para responder ao cliente análise o banco de dados, crie um modelo teste e um modelo final que
- deve prever as próximas 4 semanas, respectivas ao mês de novembro de 2020 (a última semana
- é a semana da Black Friday).
+Em uma agência de marketing digital, um dos períodos mais importantes para o setor de e-commerce é a Black Friday, uma data sazonal em que muitos clientes se planejam com promoções e ações por meio de mídias pagas para atrair a atenção dos usuários. Pensando nessa ocasião especial, um cliente da Calina solicitou uma análise para prever qual será a receita durante a Black Friday de 2020.
+
+O banco de dados enviado contém informações de três mídias nas quais o cliente investe (Mídia A, Mídia B e Mídia C), além do total da receita gerada no site por semana, desde a primeira semana de 2018 até a última semana de outubro de 2020.
+
+Para responder à solicitação do cliente, analise o banco de dados, crie um modelo de teste e um modelo final, que deverá prever as próximas quatro semanas, correspondentes ao mês de novembro de 2020 (sendo a última delas a semana da Black Friday).
 </div>
 
 ## Conteúdo do projeto
