@@ -28,7 +28,7 @@ Para responder à solicitação do cliente, analise o banco de dados, crie um mo
     - Estudo de outliers e distribuição
     - Desenvolvimento e execução dos modelos de Regressão
     - Avaliação de resultados sazonalidade. 
-  - [`Analise.Rmd`](./AnaliseRegressao/Analise.Rmd) - Artefato origem da análise
+  - [`Analise.Rmd`](./AnaliseRegressao/Analise.Rmd) - Código da análise
 
 #### Dependências
 -  R>=3.5
